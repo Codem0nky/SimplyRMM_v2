@@ -1,0 +1,6 @@
+@RMM_API_HostAddress = http://localhost:5171
+
+GET {{RMM_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
